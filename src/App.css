@@ -1,0 +1,16 @@
+.App {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 16px;
+  padding-bottom: 24px;
+}
+
+.Wrapper {
+  text-align: center;
+}
+
+.TextBlock {
+  text-align: center;
+  color: #808080;
+  font-style: oblique;
+}
